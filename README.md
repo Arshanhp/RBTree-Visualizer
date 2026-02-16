@@ -28,7 +28,7 @@
 <div align="center">
 
 ### 🏗️ Build Mode — Dark & Light Theme
-<img src="dalb.png" width="750" alt="Build Mode — Dark and Light Theme">
+<img src="assets/dalb.png" width="750" alt="Build Mode — Dark and Light Theme">
 
 <br><br>
 
