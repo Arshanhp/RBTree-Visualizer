@@ -72,7 +72,7 @@ class Settings:
     _PATH = os.path.join(os.path.expanduser("~"), ".rbtree_v4.json")
 
     def __init__(self):
-        self.theme       = "light"
+        self.theme       = "dark"
         self.anim_speed  = 600
         self.custom_colors = {}
         
